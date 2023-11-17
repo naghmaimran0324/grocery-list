@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: palevioletred;
+    
+}
+h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgreen;
+ }
+.ol1{
+    text-align: left;
+    list-style-type: circle;
+}
+  
+
+
+
+.ol2 {
+    text-align: left;
+    list-style-type: lower-latin;
+}
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsy753AQWeBduP9g8U0_bOKicH3POMIsKr6QMvUP0B&s);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;  
+}
+.ol3{
+    text-align: left;
+    list-style-type: lower-roman;
+}
